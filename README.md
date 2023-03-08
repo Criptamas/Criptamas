@@ -1,6 +1,6 @@
 - 👋 Hola soy Juan Rojas
 - 👀 Me interesa mucho la programacion y el desarrollo de AI
-- 🌱 Estoy estudianto front end en JavaScript
+- 🌱 Estoy estudiando front end en JavaScript
 - 💞️ Tengo grandes metas en el mundo tech.
 - 📫 Estudiante autonomo y autodidacta, en constante aprendizaje.
 
