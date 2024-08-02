@@ -1,4 +1,4 @@
 # Hola mi nombre es Juan Rojas 😊
-Soy Junior Web Developer y actualmente me encuentro estudiando de forma online y autodidacta  utilizando plataformas como *Platzi*, *FreeCodeCamp*, *CodigoFacilito* y *Youtube*. 💡💻
+Soy programador web Junior, autodidacta, me he formado en plataformas como *Platzi*, *FreeCodeCamp*, *CodigoFacilito* y *Youtube*. 💡💻
 
-Estoy constantemente creando proyectos personales y otros a modo de practica basados en tutos de Youtube. Te invito a chequear mis repositorios y ver si conectamos en [LinkedIn](https://www.linkedin.com/in/criptamas) ✨
+Me gusta crear proyectos intereasante en **PYTHON**, **ASTRO**, **JS**, **REACT**. Te invito a chequear mis repositorios y a ver mi perfil en [LinkedIn](https://www.linkedin.com/in/criptamas) 🔥
