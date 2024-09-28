@@ -3,7 +3,7 @@
 <img width="896" alt="Juan Rojas Abour me" src="https://github.com/user-attachments/assets/20331b19-e6b9-4dcc-ba36-7e68195a628d">
 
 
-* Soy programador web Junior
+* Soy programador web Trainee
 * Autodidacta y dedicado al 100% 
 * Me he formado en plataformas como  *Platzi*, *FreeCodeCamp*, *CodigoFacilito* y *Youtube*. 💡💻
 
